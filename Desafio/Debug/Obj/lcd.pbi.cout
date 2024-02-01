@@ -1,4 +1,4 @@
-"C:\Users\user\OneDrive\Área de Trabalho\Desafio\lcd.c"
+"D:\user\Documents\Estudos\teste-situacional\Desafio\lcd.c"
 -std=c99
 -ferror-limit=100
 -I
@@ -201,7 +201,7 @@ D:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\430\inc\dlib\c
 -D__HAS_LOCATED_DECLARATION__=1
 -D__IAR_COMPILERBASE__=593410
 -D__DATE__="Feb  1 2024"
--D__TIME__="18:51:58"
+-D__TIME__="19:58:51"
 -D__STDC__=1
 -D__STDC_VERSION__=199901L
 -D__STDC_HOSTED__=1
